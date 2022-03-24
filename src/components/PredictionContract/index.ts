@@ -1,0 +1,1 @@
+export { PredictionContract } from "./PredictionContract"

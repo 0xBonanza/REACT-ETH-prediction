@@ -1,0 +1,22 @@
+{
+  "contracts": {
+    "PredictionPool": "c7202a4c1f78d308c3b8137c4ca1c08a82f8b1ff"
+  },
+  "tests": {
+    "tests/integration/integration_test.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "f3780e0c1dd9e083e1dea045650ae6b86b929b20",
+      "txhash": []
+    },
+    "tests/unit/unit_test.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": ".",
+      "sha1": "66e0fdfb7886e261b9a86f8679d190aab6dd30a2",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
